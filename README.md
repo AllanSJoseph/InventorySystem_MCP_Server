@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/allansjoseph-inventorysystem-mcp-server-badge.png)](https://mseep.ai/app/allansjoseph-inventorysystem-mcp-server)
+
 # InventorySystem MCP Server
 
 A Python based **MCP (Model Context Protocol) Server** that connects to an Inventory Management System and provides various tools to handle CRUD operations to it.
