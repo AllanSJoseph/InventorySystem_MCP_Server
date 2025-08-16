@@ -155,3 +155,5 @@ To inspect the tools and check if tools are working properly, run the below comm
 ```bash
 npx @modelcontextprotocol/inspector uv run main.py
 ```
+
+[![Verified on MSeeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/a851f18a-ddf2-4c48-b972-b7ffb78bd47b)
